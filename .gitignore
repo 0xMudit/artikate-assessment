@@ -40,3 +40,7 @@ celerybeat.pid
 # Silk
 silk/
 *.prof
+
+# Extra files (not part of assessment)
+LOOM_SCRIPT.md
+SYSTEM_DESIGN.html

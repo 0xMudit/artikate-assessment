@@ -15,7 +15,7 @@ The project is built with Django 5.2, Django REST Framework, Celery, Redis, and 
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/0xMudit/artikate-assessment
 cd artikate-assessment
 
 # Create virtual environment

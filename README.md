@@ -1,5 +1,9 @@
 # ARTIKATE STUDIO — Backend Developer Technical Assessment
 
+This repository contains the complete solution for ARTIKATE STUDIO's Backend Developer Technical Assessment. It covers four core areas of production Django development: diagnosing and fixing N+1 query problems, building a rate-limited async job queue with Celery and Redis, enforcing multi-tenant data isolation, and documenting architectural decisions through a written review.
+
+The project is built with Django 5.2, Django REST Framework, Celery, Redis, and Silk profiler. All 42 tests pass from a clean environment and demonstrate correctness across each section — from query count proofs to 500-job stress tests to cross-tenant isolation guarantees.
+
 ## Setup
 
 ### Prerequisites

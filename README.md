@@ -85,6 +85,10 @@ artikate-assessment/
     └── urls.py
 ```
 
+## System Design
+
+![System Design](system_design.png)
+
 ## Sections
 
 ### Section 01 — Diagnose a Broken System

@@ -44,3 +44,9 @@ silk/
 # Extra files (not part of assessment)
 LOOM_SCRIPT.md
 SYSTEM_DESIGN.html
+loom_demo.py
+submit_jobs.py
+submit_more_jobs.py
+demo_retry.py
+demo_deadletter.py
+demo_sigkill.py

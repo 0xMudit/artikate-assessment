@@ -147,7 +147,7 @@ The `/api/orders/profiler-compare/` endpoint programmatically returns both query
 
 ## Optional: Loom Recording (Section 5)
 
-> 🎥 **Loom link:** _(add your Loom URL here after recording)_
+> 🎥 **Loom link:** _(to be added)_
 
 The recording covers:
 - Fresh terminal startup (Redis + Celery worker)
@@ -155,5 +155,3 @@ The recording covers:
 - Rate limiter throttling at exactly 200/min (ZSET visible in redis-cli)
 - At least one failure retrying with exponential backoff
 - Dead-letter path demonstrated
-
-See `LOOM_SCRIPT.md` in this repo for the full narration script and terminal commands.

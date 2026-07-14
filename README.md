@@ -145,9 +145,10 @@ Silk is integrated and configured. To capture before/after profiler evidence:
 
 The `/api/orders/profiler-compare/` endpoint programmatically returns both query counts for automated comparison.
 
-## Optional: Loom Recording (Section 5)
+## Demo
 
-> 🎥 **Loom link:** _(to be added)_
+- **YouTube:** [Watch Demo](https://www.youtube.com/watch?v=D5U77JfwYvw)
+- **Loom:** [Watch Demo](https://www.loom.com/share/f196606f1e1a484796e498b85653487d)
 
 The recording covers:
 - Fresh terminal startup (Redis + Celery worker)

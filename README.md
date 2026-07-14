@@ -4,6 +4,12 @@ This repository contains the complete solution for ARTIKATE STUDIO's Backend Dev
 
 The project is built with Django 5.2, Django REST Framework, Celery, Redis, and Silk profiler. All 42 tests pass from a clean environment and demonstrate correctness across each section — from query count proofs to 500-job stress tests to cross-tenant isolation guarantees.
 
+## Demo
+
+[![YouTube Demo](https://img.youtube.com/vi/D5U77JfwYvw/0.jpg)](https://www.youtube.com/watch?v=D5U77JfwYvw)
+
+[![Loom Demo](https://cdn.loom.com/assets/img/loom-thumbnail.png)](https://www.loom.com/share/f196606f1e1a484796e498b85653487d)
+
 ## Setup
 
 ### Prerequisites

@@ -8,7 +8,7 @@ The project is built with Django 5.2, Django REST Framework, Celery, Redis, and 
 
 [![YouTube Demo](https://img.youtube.com/vi/D5U77JfwYvw/0.jpg)](https://www.youtube.com/watch?v=D5U77JfwYvw)
 
-[![Loom Demo](https://cdn.loom.com/assets/img/loom-thumbnail.png)](https://www.loom.com/share/f196606f1e1a484796e498b85653487d)
+[![Loom](https://img.shields.io/badge/Loom-Video-FF4F00?logo=loom&logoColor=white)](https://www.loom.com/share/f196606f1e1a484796e498b85653487d)
 
 ## Setup
 
